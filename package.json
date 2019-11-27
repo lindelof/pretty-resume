@@ -1,0 +1,24 @@
+{
+  "name": "pretty-resume",
+  "version": "1.0.0",
+  "description": "A Pretty resume template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindelof/pretty-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindelof/pretty-resume/issues"
+  },
+  "homepage": "https://github.com/lindelof/pretty-resume#readme",
+  "dependencies": {
+    "gsap": "^3.0.1",
+    "jquery": "^3.4.1",
+    "proton-engine": "^4.1.0"
+  }
+}
